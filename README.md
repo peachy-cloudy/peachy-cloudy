@@ -19,10 +19,10 @@
 
 ### ꒰ 🛠 skills ꒱
 ![Drawing](https://img.shields.io/badge/Drawing-%23F7A8B8.svg?style=flat-square&logo=artstation&logoColor=white) ![Music](https://img.shields.io/badge/Music-%2381A1C1.svg?style=flat-square&logo=spotify&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
 ---
 <p align="center">
   ` 🩰 follow for more ! ,, 🍥 + ∩ .. `
   <br>
   <img src="https://raw.githubusercontent.com/mhmaltun/mhmaltun/main/assets/line-animation.gif" width="100%">
 </p>
-
