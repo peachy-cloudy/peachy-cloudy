@@ -9,6 +9,17 @@
     <a href="https://www.tiktok.com/@spoklagay" target="blank"><img src="https://img.shields.io/badge/TikTok-@spoklagay-ffb7c5?style=for-the-badge&logo=tiktok&logoColor=white" alt="spoklagay" /></a>
   </p>
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/trulshf/trulshf/main/assets/border-top.png" width="100%">
+<img src="https://i.pinimg.com/736x/87/40/8e/87408e096475736f86256f108f90f230.jpg" width="100%" style="margin-top:-5px;">
+<img src="https://raw.githubusercontent.com/trulshf/trulshf/main/assets/border-bottom.png" width="100%" style="margin-top:-5px;">
+
+<br>
+
+` spoke spoke spoke spoke spoke spoke spoke spoke `
+
+</div>
 
 ### ꒰ 🌲 about me ꒱
 - ⛰️ ⊹ ₊˚ based in **Denver, Colorado**. 
