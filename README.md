@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=b8e1dd&height=200&section=header&text=Rowan%20Miller&fontSize=70&fontColor=ffb7c5" />
 
-  ### 𝜗𝜚 ₊˚ Hii, i'm Rowan Miller/Rowan Lâm ⊹ ☁️
+  ## 𝜗𝜚 ₊˚ Hii, i'm Rowan Miller/Rowan Lâm ⊹ ☁️
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=14+years+old...+%E2%99%A1;Living+in+Denver%2C+CO+%E2%9B%BB;Artist+%26+Music+Lover;Welcome+to+my+world!)](https://git.io/typing-svg)
 
