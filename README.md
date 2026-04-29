@@ -1,19 +1,47 @@
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td><img src="https://i.scdn.co/image/ab67616d0000b2730623a803964f4347781f33f6" width="100" style="border-radius: 10px;"></td>
-    <td align="left" style="padding-left: 10px;">
-      <font size="4"><b>Nuts</b></font><br>
-      <font color="#B19CD9">Lil Peep</font><br>
-      <img src="https://raw.githubusercontent.com/Akshat-Pratap-Singh/spotify-now-playing/master/assets/spotify-logo.png" width="20"> <font size="1" color="#808080">RECENTLY PLAYED</font><br>
-      <img src="https://i.ibb.co/hZ7v0Wp/spotify-bar.png" width="200">
-    </td>
-  </tr>
-</table>
+<img src="https://64.media.tumblr.com/tumblr_inline_p7n8hu9uS81rhp9v8_75sq.gif" width="100%">
 
 <p align="center">
-  † ✫ <b>【 ⓇⓄⓌⒶⓃ 】／ ⓈⒽⒺⓁⓁⓎ</b> ✫ †
+  <font color="#B19CD9">⊹ ࣪ ˖ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ˖ ࣪ ⊹</font>
+</p>
+
+<div style="display: inline-block; position: relative;">
+  <img src="https://github.com/peachy-cloudy.png" width="300" style="border-radius: 15px; border: 2px solid #4B0082;">
+  <img src="https://i.ibb.co/L5Bf1Qk/stars-gif.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 15px; opacity: 0.4;">
+</div>
+
+<p align="center">
+  <font size="5" color="#B19CD9"><b>† ⓇⓄⓌⒶⓃ ⓂⒾⓁⓁⒺⓇ †</b></font>
+</p>
+
+<p align="center">
+  <font color="#808080">
+  ★ 𝔥𝔢/𝔥𝔦𝔪 • 𝔞𝔯𝔱𝔦𝔰𝔱 • 𝔡𝔢𝔫𝔳𝔢𝔯 ★<br>
+  (ㅅ´ ˘ `) <i>"just love me like you used to"</i>
+  </font>
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/z8v15Yv/hearts.gif" width="20"> 
+  <font color="#B19CD9"><b>ⓃⓊⓉⓈ — ⓁⒾⓁ ⓅⒺⒺⓅ</b></font>
+  <img src="https://i.ibb.co/z8v15Yv/hearts.gif" width="20">
+</p>
+
+<p align="center">
+  <font color="#D8BFD8">
+  † ✫ ⊹ ࣪ ˖ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ˖ ࣪ ⊹ ✫ †
+  </font>
+</p>
+
+<p align="center">
+  <a href="#"><b>ⓇⒺⓃⓉⓇⓎ</b></a> ✕ <a href="#"><b>ⒶⓉⒶ</b></a> ✕ <a href="#"><b>ⓈⓉⓇⒶⓌⓅⒶⒼⒺ</b></a>
+</p>
+
+<img src="https://64.media.tumblr.com/tumblr_inline_p7n8hu9uS81rhp9v8_75sq.gif" width="100%" style="transform: rotate(180deg);">
+
+<p>
+  <font color="#808080" size="1">have a good day everynyan 🦊</font>
 </p>
 
 </div>
