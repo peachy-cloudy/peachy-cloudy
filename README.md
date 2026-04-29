@@ -6,7 +6,8 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" width="45"/> LORE & IDENTITY 
+## <i>"Stay cool or stay dead."</i> ♰ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" width="35"/> ♰
+</p> LORE & IDENTITY 
 - 🖤 **Designation:** Rowan Miller (**"Row"**)
 - 🩸 **Theme:** Crimson Red | Black | Grey Grunge
 - ⚔️ **Obsession:** Minecraft Hardcore SMP, Fandom Lore
