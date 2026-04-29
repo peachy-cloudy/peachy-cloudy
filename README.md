@@ -28,7 +28,7 @@
 
 ### ♰ VISUAL STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Rowan Miller]&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[peachy-cloudy]&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" width="400" />
 </p>
 
 ---
