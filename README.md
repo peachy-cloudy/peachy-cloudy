@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=660000&height=120&section=header&text=Rowan%20Miller&fontSize=50&fontColor=333333&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AE0000&height=120&section=header&text=Rowan%20Miller&fontSize=50&fontColor=333333&animation=fadeIn" />
 </p>
 
 # <p align="center"> ϑϱ ₊ ˚ Hii, i'm Rowan Miller/Rowan Lâm ⊹ ☁️ </p>
@@ -28,7 +28,8 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spider%20Web.png" width="45"/> ESTABLISH CONTACT 
+## </i> ♰ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" width="35"/> ♰
+</p> ## ESTABLISH CONTACT 
 <p align="left">
 <a href="https://www.tiktok.com/@spoklagay"><img src="https://img.shields.io/badge/TikTok-@spoklagay-red?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://www.facebook.com/share/1bLkuY6YtY/"><img src="https://img.shields.io/badge/Facebook-Rowan-grey?style=for-the-badge&logo=facebook&logoColor=white" /></a>
