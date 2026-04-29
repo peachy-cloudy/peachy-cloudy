@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AE0000&height=120&section=header&text=Rowan%20Miller&fontSize=50&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AE0000&height=120&section=header&text=Rowan%20Miller&fontSize=50&fontColor=222222&animation=fadeIn" />
 </p>
 
 # <p align="center"> ϑϱ ₊ ˚ Hii, i'm Rowan Miller/Rowan Lâm ⊹ ☁️ </p>
