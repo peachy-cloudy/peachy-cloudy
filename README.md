@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spider%20Web.png" width="45"/> ESTABLISH CONTACT 
+##  ESTABLISH CONTACT 
 <p align="left">
 <a href="https://www.tiktok.com/@spoklagay"><img src="https://img.shields.io/badge/TikTok-@spoklagay-red?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://www.facebook.com/share/1bLkuY6YtY/"><img src="https://img.shields.io/badge/Facebook-Rowan-grey?style=for-the-badge&logo=facebook&logoColor=white" /></a>
