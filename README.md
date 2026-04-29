@@ -1,15 +1,17 @@
-# <p align="center">† ⓇⓄⓌⒶⓃ ⓂⒾⓁⓁⒺⓇ †</p>
+<div align="center">
+
+# 🟇 ⓇⓄⓌⒶⓃ ⓂⒾⓁⓁⒺⓇ 🟇
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/tumblr_inline_p7n8hu9uS81rhp9v8_75sq.gif" width="100%">
+  ⊹ ࣪ ˖ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ˖ ࣪ ⊹
 </p>
 
 <p align="center">
-  <img src="https://github.com/peachy-cloudy.png" width="250" style="border-radius: 20px;">
+  <img src="https://github.com/peachy-cloudy.png" width="300" style="border-radius: 15px; border: 1px solid #4B0082;">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/L5Bf1Qk/stars-gif.gif" width="100">
+  ✨ 🟇 ✨
 </p>
 
 <p align="center">
@@ -18,9 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/z8v15Yv/hearts.gif" width="20"> 
-  <b>ⓃⓊⓉⓈ — ⓁⒾⓁ ⓅⒺⒺⓅ</b>
-  <img src="https://i.ibb.co/z8v15Yv/hearts.gif" width="20">
+  💖 <b>ⓃⓊⓉⓈ — ⓁⒾⓁ ⓅⒺⒺⓅ</b> 💖
 </p>
 
 <p align="center">
@@ -32,9 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/tumblr_inline_p7n8hu9uS81rhp9v8_75sq.gif" width="100%" style="transform: rotate(180deg);">
-</p>
-
-<p align="center">
   <font color="#808080">have a good day everynyan 🦊</font>
 </p>
+
+</div>
