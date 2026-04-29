@@ -1,38 +1,37 @@
 <div align="center">
 
-# 🟇 ⓇⓄⓌⒶⓃ ⓂⒾⓁⓁⒺⓇ 🟇
-
 <p align="center">
-  ⊹ ࣪ ˖ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ˖ ࣪ ⊹
+  <font color="#B19CD9">adapted only for dark theme,</font>
 </p>
 
-<p align="center">
-  <img src="https://github.com/peachy-cloudy.png" width="300" style="border-radius: 15px; border: 1px solid #4B0082;">
-</p>
-
-<p align="center">
-  ✨ 🟇 ✨
-</p>
-
-<p align="center">
-  <b>★ 𝔥𝔢/𝔥𝔦𝔪 • 𝔞𝔯𝔱𝔦𝔰𝔱 • 𝔡𝔢𝔫𝔳𝔢𝔯 ★</b><br>
-  <i>"just love me like you used to"</i>
-</p>
-
-<p align="center">
-  💖 <b>ⓃⓊⓉⓈ — ⓁⒾⓁ ⓅⒺⒺⓅ</b> 💖
-</p>
-
-<p align="center">
+<div align="center">
+  
+<p align="center" style="margin-bottom: -15px;">
+  <font color="#B19CD9">
   † ✫ ⊹ ࣪ ˖ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ˖ ࣪ ⊹ ✫ †
+  </font>
+</p>
+
+<img src="anh_vien_ren.png" width="400" style="margin-bottom: -5px;">
+
+<p align="center">
+  <font size="+2" color="#B19CD9"><b>† Rowan Miller †</b></font><br>
+  he/him • artist & music lover ☁️ denver, co
 </p>
 
 <p align="center">
-  <a href="#">ⓇⒺⓃⓉⓇⓎ</a> ✕ <a href="#">ⒶⓉⒶ</a> ✕ <a href="#">ⓈⓉⓇⒶⓌⓅⒶⒼⒺ</a>
+  ★ <i>feel free to chat with me anytime</i> ★<br>
+  (ㅅ´ ˘ `)
 </p>
 
 <p align="center">
-  <font color="#808080">have a good day everynyan 🦊</font>
+  <font color="#D8BFD8">
+  ⊹ ࣪ ˖ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ˖ ࣪ ⊹
+  </font>
+</p>
+
+<p>
+  <font color="#E6E6FA">have a good day everynyan 🦊</font>
 </p>
 
 </div>
