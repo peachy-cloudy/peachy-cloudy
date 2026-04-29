@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=AE0000&height=120&section=header&text=Rowan%20Miller&fontSize=50&fontColor=222222&animation=fadeIn" />
 </p>
 
-# <p align="center"> ϑϱ ₊ ˚ Hii, i'm Rowan Miller/Rowan Lâm ⊹ ☁️ </p>
+# <p align="center"> ϑϱ ₊ ˚ Rowan ⊹ ☁️ </p>
 
 <p align="center"> 
 <font color="#EEAEEE">Artist & Music Lover</font>
