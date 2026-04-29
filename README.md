@@ -4,6 +4,10 @@
 
 # <p align="center"> ϑϱ ₊ ˚ Rowan ⊹ ☁️ </p>
 
+<p align="center">
+  <img src="https://github.com/peachy-cloudy.png" width="150" style="border-radius: 50%; border: 3px solid #8b0000;" />
+</p>
+
 <p align="center"> 
 <font color="#EEAEEE">Artist & Music Lover</font>
 </p>
