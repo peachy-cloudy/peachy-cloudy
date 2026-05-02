@@ -12,9 +12,6 @@
 <font color="#EEAEEE">Artist & Music Lover</font>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V4cXh1ZzFveTFoMmdwZHVseGZtdG5xZnlocWp3MTB2ZzdzYmcwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8uM2aZAnB12S6E48Q/giphy.gif" width="60"/>
-</p>
 
 ---
 
